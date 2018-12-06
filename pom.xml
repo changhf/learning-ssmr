@@ -23,6 +23,7 @@
         <module>chapter05</module>
         <module>chapter05.2</module>
         <module>chapter06</module>
+        <module>chapter19-redis</module>
     </modules>
 
     <properties>
